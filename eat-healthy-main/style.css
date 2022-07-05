@@ -1,0 +1,21 @@
+body {
+    font-family: font-family: 'Raleway', sans-serif;
+    margin: 0%;
+}
+.1st-part{
+    display: f
+}
+h1 {
+    font-size: 50px;
+}
+h4 {
+    font-weight: 400;
+}
+.orange{
+color: orange;
+}
+.button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, red)
+}

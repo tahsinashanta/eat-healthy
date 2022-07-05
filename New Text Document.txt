@@ -1,0 +1,16 @@
+select font and link
+create section 
+class= flexible container
+(for text/image use seperate div) 
+use class
+use h1-h6
+use span+ class to customize a particular thing
+for button- anchor+ target blank
+use class+ "half-width"
+img
+id vs class
+images can be set left/right using class
+use margin and padding
+font size font weight color background image background color gradient display:flex, text decoration, border radius background repeat text align background position box shadow border radius 
+
+
