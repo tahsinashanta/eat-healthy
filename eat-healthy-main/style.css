@@ -11,19 +11,50 @@ h1 {
 }
 h4 {
     font-weight: 400;
+    line-height: .27in;
 }
 .orange{
 color: orange;
+}
+.font{
+    font-size: 90px;
+    line-height: 1.10in;
 }
 .button{
     color: white;
     text-decoration: none;
     background-image: linear-gradient(orange, red);
     border-radius: 30px;
-    padding: 10px 30px;
-    font-size: 15px;
-    
+    padding: 16px 33px;
+    font-size: 15px;   
 }
 .half-width{
     width: 50%;
+    padding-left: 120px;
+    padding-top: 100px;
+}
+.half-width img{
+    width: 90%;
+}
+.background-2{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    line-height: .35in;
+    padding-bottom: 100px;
+}
+.half-width-2 img{
+    width: 70%;
+    padding-left: 200px;
+}
+.half-width-2{
+    width: 50%;
+    padding-right: 300px;
+}
+.top{
+    padding-top: 120px;
 }
