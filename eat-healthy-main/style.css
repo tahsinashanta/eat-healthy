@@ -1,12 +1,13 @@
 body {
-    font-family: font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
     margin: 0%;
 }
-.1st-part{
-    display: f
+section{
+    display: flex;
 }
 h1 {
     font-size: 50px;
+    line-height: 70px;
 }
 h4 {
     font-weight: 400;
@@ -17,5 +18,12 @@ color: orange;
 .button{
     color: white;
     text-decoration: none;
-    background-image: linear-gradient(orange, red)
+    background-image: linear-gradient(orange, red);
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 15px;
+    
+}
+.half-width{
+    width: 50%;
 }
